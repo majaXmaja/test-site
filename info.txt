@@ -1,1 +1,2 @@
 This is initial information.
+line 2
