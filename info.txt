@@ -1,3 +1,1 @@
-This is initial info
-New line.
-Hello
+This is brief information about this repo.
