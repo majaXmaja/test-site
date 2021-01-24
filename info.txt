@@ -1,15 +1,1 @@
-This is brief information about this repo.
-#some comment
-This is initial information.
-line 2
-This is private information.
-This is initial info
-New line.
-Hello
-This is initial info
-New line.
-This is brief information about this repo.
-#some comment
-This is initial information.
-line 2
-This is private information.
+Information
