@@ -1,4 +1,1 @@
-hi
-hi2
-hi3
-info4
+This is information file
