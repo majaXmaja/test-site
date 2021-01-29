@@ -1,6 +1,1 @@
-// merging master and c7.2
-mb3
-mb4
-mb5
-mb2
-Mb is changed.
+This is brand new text.
